@@ -1,0 +1,13 @@
+{
+  "id": "exposure-histogram",
+  "name": "Exposure Histogram",
+  "version": "1.0.0",
+  "description": "An exposure histogram in stops: red, green and blue on an EV scale from deep shadow to white, with each channel's clipped highlights, blocked shadows and the headroom left before it clips.",
+  "author": "Anthony Reimche",
+  "main": "dist/index.js",
+  "license": "GPL-3.0-or-later",
+  "categories": ["Develop"],
+  "keywords": ["histogram", "exposure", "ev", "stops", "clipping", "overexposure", "underexposure", "headroom"],
+  "repository": "anthonyreimche/Exposure-Histogram",
+  "minAppVersion": "3.2.0"
+}
