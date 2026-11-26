@@ -1,7 +1,7 @@
 {
   "name": "safelight-exposure-histogram",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exposure Histogram for Safelight: an RGB histogram in stops with per-channel clipping and headroom.",
   "type": "module",
   "scripts": {

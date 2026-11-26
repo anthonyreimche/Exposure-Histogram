@@ -22,6 +22,7 @@ export function activate(host: SafelightAPI): void {
     title: "Exposure Histogram",
     component: ExposureHistogramPanel,
     defaultDock: { module: "develop", direction: "right", order: PANEL_ORDER, width: 280 },
+    modules: ["develop"],
     onReset: resetPrefs,
   });
 }

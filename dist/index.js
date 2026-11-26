@@ -441,6 +441,7 @@ function ue(e) {
 			order: le,
 			width: 280
 		},
+		modules: ["develop"],
 		onReset: F
 	});
 }

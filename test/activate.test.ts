@@ -17,6 +17,7 @@ describe("activate", () => {
         title: "Exposure Histogram",
         component: ExposureHistogramPanel,
         defaultDock: { module: "develop", direction: "right", order: 1.2, width: 280 },
+        modules: ["develop"],
         onReset: expect.any(Function),
       },
     ]);
